@@ -6,7 +6,7 @@
 this project generates a read me file based of user input.
 
 ## Video
-[![](https://www.youtube.com/embed/PBOcxgZ-z-4)](http://www.youtube.com/watch?v=${vid} "Click to play on Youtube.com")
+[![](https://youtu.be/PBOcxgZ-z-4)](http://www.youtube.com/watch?v=${vid} "Click to play on Youtube.com")
 ## Table of contents 
 - [Description](#Description)
 - [Installation](#Installation)
