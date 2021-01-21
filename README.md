@@ -1,4 +1,4 @@
 # readme-generator
 
 
-![caption](src="https://drive.google.com/file/d/1AZGiTXSKyaC1_UaghSKZdb2EALlyZ-Uc/preview" width="640" height="480">)
+![caption](https://drive.google.com/file/d/1AZGiTXSKyaC1_UaghSKZdb2EALlyZ-Uc/preview)
