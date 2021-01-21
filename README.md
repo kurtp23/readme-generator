@@ -6,7 +6,7 @@
 this project generates a read me file based of user input.
 
 ## Video
-[![](https://drive.google.com/file/d/1AZGiTXSKyaC1_UaghSKZdb2EALlyZ-Uc/view)
+https://drive.google.com/file/d/1AZGiTXSKyaC1_UaghSKZdb2EALlyZ-Uc/view
 ## Table of contents 
 - [Description](#Description)
 - [Installation](#Installation)
