@@ -6,7 +6,7 @@
 this project generates a read me file based of user input.
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PBOcxgZ-z-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://www.youtube.com/embed/PBOcxgZ-z-4)](http://www.youtube.com/watch?v=${vid} "Click to play on Youtube.com")
 ## Table of contents 
 - [Description](#Description)
 - [Installation](#Installation)
